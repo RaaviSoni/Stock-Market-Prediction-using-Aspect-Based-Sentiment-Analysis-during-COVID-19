@@ -4,3 +4,8 @@ I have created a novel model for predicting Stock prices with the help of Aspect
 Data used can be accessed from: https://www.kaggle.com/raavisoni/stocks
 
 
+Results:
+
+![](images/1.PNG)
+
+![](images/2.PNG)
