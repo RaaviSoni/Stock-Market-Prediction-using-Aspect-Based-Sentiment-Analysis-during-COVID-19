@@ -6,6 +6,6 @@ Data used can be accessed from: https://www.kaggle.com/raavisoni/stocks
 
 Results:
 
-![](images/1.PNG)
+![](resultimages/1.PNG)
 
-![](images/2.PNG)
+![](resultimages/2.PNG)
